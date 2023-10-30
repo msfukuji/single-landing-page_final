@@ -265,3 +265,37 @@
         display: none;
     }
 }
+
+@media (min-width:375px) and (max-width: 412px) {
+    .intro-text-content h2 {
+        font-size: 5rem;
+    }
+    .top3-content h2 {
+        font-size: 5rem;
+    }
+    .grid-main-heading h2 {
+        font-size: 5rem;
+    }
+    .grid-one-content h2 {
+        font-size: 5rem;
+    }
+}
+
+
+/* @media (min-width: 569px) and (max-width: 768px) {
+    .grid .col {
+        width: 50%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+    .grid .col {
+        width: 33.33%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .grid .col {
+        width: 25%;
+    }
+} */
